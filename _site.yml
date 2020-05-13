@@ -1,0 +1,16 @@
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "First Asset"
+      href: First_Asset.html
+    - text: "Second Asset"
+      href: Second_Asset.html
+    - text: "Third Asset"
+      href: Third_Asset.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
